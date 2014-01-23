@@ -1,3 +1,5 @@
+/* Colors */
+
 .dribbble {
 	color: #ac2d5d;
 }
@@ -23,5 +25,39 @@
 }
 
 .twitter {
+    color: #2fc2ef;
+}
+
+/* Hover */
+
+.hover {
+	color: #000000;
+}
+
+.dribbble.hover:hover {
+	color: #ac2d5d;
+}
+
+.facebook.hover:hover {
+	color: #4c66a4;
+}
+
+.github.hover:hover {
+	color: #b9b9b9;
+}
+
+.google-plus.hover:hover {
+	color: #dd4b39;
+}
+
+.linkedin.hover:hover {
+	color: #0077b5;
+}
+
+.tumblr.hover:hover {
+	color: #2c4762;
+}
+
+.twitter.hover:hover {
     color: #2fc2ef;
 }
