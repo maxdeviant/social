@@ -5,3 +5,8 @@ body {
 span {
 	display: block;
 }
+
+.hover {
+	color: #000000;
+	cursor: pointer;
+}

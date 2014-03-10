@@ -31,7 +31,7 @@
 /* Hover */
 
 .hover {
-	color: #000000;
+	color: inherit;
 }
 
 .dribbble.hover:hover {
